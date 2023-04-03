@@ -1,6 +1,5 @@
 # Learn Markdown
 
-[![Youtube Channel](https://img.shields.io/badge/Darun%20IT-Subscribe-red)]https://youtu.be/GvHXALZtQo8 "My youtube Channel")
 
 [//]: # (Table of Content)
 
